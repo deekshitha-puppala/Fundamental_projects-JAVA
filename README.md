@@ -1,3 +1,4 @@
+This is about Username generator-java
 # Fundamental-projects-for-Beginners
 --> Requirements:
 * Ask user for their nickname and reak name using input()
